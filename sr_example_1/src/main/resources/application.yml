@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: sr_example_1
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5431/sr_essay_1
+    username: admin
+    password: password
