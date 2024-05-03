@@ -17,6 +17,7 @@
 
     <modules>
         <module>sr_example_1</module>
+        <module>sr_example_2</module>
     </modules>
 
     <properties>
